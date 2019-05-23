@@ -1,0 +1,183 @@
+/* Navegate */
+nav{
+    background-color: rgba(250, 141, 141, 0.877);
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold; 
+}
+.nav-link{
+    background-color: transparent;
+    color: rgb(245, 210, 145);
+}
+#shopcart{
+    background-image: url('./material/banner/SHOPPING CART.png');
+}
+#magnglass{
+    background-image: url('./material/banner/MAGNIFYING GLASS.png');
+}
+
+/* Creative Template */
+#creative{
+    background-image: url('./material/banner/Layer 15.png'); 
+    background-size: cover;  
+    padding-top:100px; padding-bottom: 100px;
+}
+#creative-div{
+    padding-top:100px; 
+    padding-bottom: 100px; 
+    color:white;
+}
+
+/* STORY ABOUT US */
+.story{
+    padding-top:100px; 
+    padding-bottom: 100px;
+}
+#story-div{
+    padding-top:50px; 
+    padding-bottom: 50px;
+}
+
+/* NUMBERS */
+#numbers{
+    padding-top:100px; 
+    padding-bottom: 100px; 
+    background-color: rgb(175, 248, 248);
+}
+
+/* AMAZING SERVICES */
+.services{
+    background-size: cover;  
+    padding-top:100px;
+    padding-bottom: 100px;
+}
+#services-div{
+    padding-top:10px; 
+    padding-bottom: 10px;
+}
+.media{
+    padding-top:50px;
+}
+.media-body{
+    text-align: left;
+}
+
+/* UNIQUE DESIGN */
+#design{
+    background-image: url('./material/uniqe design/Layer 45.png'); 
+    background-size: cover; 
+    padding-top: 100px;
+}
+#design-div{
+    padding-bottom: 10px;
+}
+#mob{
+    position: absolute; 
+    bottom: -100px; 
+    left: 700px;
+}
+
+/* WHAT WE DO */
+#we-do{
+    background-size: cover;  
+    padding-top:100px; 
+    padding-bottom: 100px;
+}
+#we-do-div{
+    padding-top:50px; 
+    padding-bottom: 50px;
+}
+.card-header{
+    background-color: white;
+}
+
+/* DUMMY */
+#dummy{
+    padding-top:100px; 
+    padding-bottom: 100px; 
+    background-color: rgb(247, 247, 247);
+}
+
+/* MEET OUR TEAM */
+#team{
+    padding-top:100px; 
+    padding-bottom: 100px;
+}
+.team-div{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+/* BRAND */
+#brand{
+    padding-top:100px; 
+    padding-bottom: 100px; 
+    background-color: rgb(247, 247, 247);
+}
+
+/* WHAT PEOPLE SAY */
+#people{
+    background-image: url('./material/What people say/bg-happy-client.jpg'); 
+    background-size: cover;  padding-top:100px; 
+    padding-bottom: 100px;
+}
+.people-div{
+    padding-top:100px; 
+    padding-bottom: 100px;
+}
+
+/* LATEST BLOG */
+.card{
+    margin: 1px;
+}
+
+.card-title{
+    color: rgb(138, 218, 138);
+}
+
+/* MAP */
+#map{
+    background-image: url('./material/map/Layer 59.png'); background-size: cover;  
+    padding-top:30px; 
+    padding-bottom: 30px;
+}
+
+/* FOOTER */
+#footer{
+    background-size: cover;  
+    padding-top:100px; 
+    padding-bottom: 100px; 
+    background-color: rgb(240, 240, 240);    
+}
+
+.form-control{
+    color:white; 
+    background-color: transparent; 
+    margin: 10px;
+}
+.btn2{
+    background-color: rgb(107, 207, 207); 
+    color: white; 
+    border-end-end-radius: 15%;
+}
+
+/* COMMAN */
+.btn{
+    background-color: transparent;
+    color: white;
+}
+p{
+  font-size: small;
+  color: grey; 
+}
+h5{
+    font-weight: normal;
+}
+h1{
+    color: white;
+}
+.card-body{
+    background-color: white;
+}
+
